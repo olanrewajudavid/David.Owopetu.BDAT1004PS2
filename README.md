@@ -1,1 +1,2 @@
-# Dvid.Owopetu.BDAT1004PS2
+# David.Owopetu - 200573602
+# Python Classes and Database
